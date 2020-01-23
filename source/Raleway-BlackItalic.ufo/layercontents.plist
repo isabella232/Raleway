@@ -170,9 +170,5 @@
       <string>ref</string>
       <string>glyphs.ref</string>
     </array>
-    <array>
-      <string>background</string>
-      <string>glyphs.background</string>
-    </array>
   </array>
 </plist>
