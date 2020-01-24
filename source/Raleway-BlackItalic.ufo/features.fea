@@ -321,11 +321,11 @@ sub f f i by f_f_i;
 sub f i by fi;
 sub f f by f_f;
 sub f l by fl;
-sub f.BRACKET.400 f.BRACKET.400 l by f_f_l;
-sub f.BRACKET.400 f.BRACKET.400 i by f_f_i;
-sub f.BRACKET.400 i by fi;
-sub f.BRACKET.400 f.BRACKET.400 by f_f;
-sub f.BRACKET.400 l by fl;
+sub f.BRACKET.400 f.BRACKET.400 l by f_f_l.BRACKET.400;
+sub f.BRACKET.400 f.BRACKET.400 i by f_f_i.BRACKET.400;
+sub f.BRACKET.400 i by fi.BRACKET.400;
+sub f.BRACKET.400 f.BRACKET.400 by f_f.BRACKET.400;
+sub f.BRACKET.400 l by fl.BRACKET.400;
 
 } liga;
 
