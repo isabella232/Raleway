@@ -1138,12 +1138,20 @@
     <string>f.sc.glif</string>
     <key>f_f</key>
     <string>f_f.glif</string>
+    <key>f_f.BRACKET.400</key>
+    <string>f_f.B_R_A_C_K_E_T_.400.glif</string>
     <key>f_f_i</key>
     <string>f_f_i.glif</string>
+    <key>f_f_i.BRACKET.400</key>
+    <string>f_f_i.B_R_A_C_K_E_T_.400.glif</string>
     <key>f_f_l</key>
     <string>f_f_l.glif</string>
+    <key>f_f_l.BRACKET.400</key>
+    <string>f_f_l.B_R_A_C_K_E_T_.400.glif</string>
     <key>fi</key>
     <string>fi.glif</string>
+    <key>fi.BRACKET.400</key>
+    <string>fi.B_R_A_C_K_E_T_.400.glif</string>
     <key>figuredash</key>
     <string>figuredash.glif</string>
     <key>figurespace</key>
@@ -1170,6 +1178,8 @@
     <string>fivesuperior.glif</string>
     <key>fl</key>
     <string>fl.glif</string>
+    <key>fl.BRACKET.400</key>
+    <string>fl.B_R_A_C_K_E_T_.400.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
     <key>four</key>
