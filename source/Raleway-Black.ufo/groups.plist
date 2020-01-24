@@ -442,6 +442,7 @@
     <key>public.kern1.f</key>
     <array>
       <string>f</string>
+      <string>f.BRACKET.400</string>
       <string>f_f</string>
     </array>
     <key>public.kern1.ge-cy</key>
@@ -1171,6 +1172,7 @@
     <key>public.kern2.f</key>
     <array>
       <string>f</string>
+      <string>f.BRACKET.400</string>
       <string>f_f</string>
       <string>f_f_i</string>
       <string>f_f_l</string>
