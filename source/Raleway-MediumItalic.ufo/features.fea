@@ -278,6 +278,7 @@ sub c by c.sc;
 sub d by d.sc;
 sub e by e.sc;
 sub f by f.sc;
+sub f.BRACKET.400 by f.sc;
 sub g by g.sc;
 sub h by h.sc;
 sub i by i.sc;
@@ -320,6 +321,11 @@ sub f f i by f_f_i;
 sub f i by fi;
 sub f f by f_f;
 sub f l by fl;
+sub f.BRACKET.400 f.BRACKET.400 l by f_f_l;
+sub f.BRACKET.400 f.BRACKET.400 i by f_f_i;
+sub f.BRACKET.400 i by fi;
+sub f.BRACKET.400 f.BRACKET.400 by f_f;
+sub f.BRACKET.400 l by fl;
 
 } liga;
 
