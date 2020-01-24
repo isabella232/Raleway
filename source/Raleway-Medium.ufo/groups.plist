@@ -444,6 +444,7 @@
       <string>f</string>
       <string>f.BRACKET.400</string>
       <string>f_f</string>
+      <string>f_f.BRACKET.400</string>
     </array>
     <key>public.kern1.ge-cy</key>
     <array>
@@ -504,7 +505,9 @@
       <string>jcircumflex</string>
       <string>j.ss04</string>
       <string>f_f_i</string>
+      <string>f_f_i.BRACKET.400</string>
       <string>fi</string>
+      <string>fi.BRACKET.400</string>
       <string>i-cy</string>
       <string>yi-cy</string>
       <string>je-cy</string>
@@ -533,7 +536,9 @@
       <string>lcommaaccent</string>
       <string>lslash</string>
       <string>f_f_l</string>
+      <string>f_f_l.BRACKET.400</string>
       <string>fl</string>
+      <string>fl.BRACKET.400</string>
     </array>
     <key>public.kern1.midddehook-cy</key>
     <array>
@@ -1174,10 +1179,15 @@
       <string>f</string>
       <string>f.BRACKET.400</string>
       <string>f_f</string>
+      <string>f_f.BRACKET.400</string>
       <string>f_f_i</string>
+      <string>f_f_i.BRACKET.400</string>
       <string>f_f_l</string>
+      <string>f_f_l.BRACKET.400</string>
       <string>fi</string>
+      <string>fi.BRACKET.400</string>
       <string>fl</string>
+      <string>fl.BRACKET.400</string>
     </array>
     <key>public.kern2.ge-cy.loclBGR</key>
     <array>
