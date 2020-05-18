@@ -1,2 +1,3 @@
-fontmake==2.0.4
-git+https://www.github.com/googlefonts/tools
+fontmake==2.0.10
+gftools==0.3.4
+ttfautohint-py==0.4.3

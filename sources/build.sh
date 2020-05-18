@@ -29,7 +29,7 @@ do
 
 	echo "TTF AH"
 
-	ttfautohint --stem-width-mode nnn $vf "$vf.fix";
+	python3 -m ttfautohint --stem-width-mode nnn $vf "$vf.fix";
 	mv "$vf.fix" $vf;
 done
 
@@ -73,7 +73,7 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf "$ttf.fix";
+	python3 -m ttfautohint $ttf "$ttf.fix";
 	mv "$ttf.fix" $ttf;
 done
 
